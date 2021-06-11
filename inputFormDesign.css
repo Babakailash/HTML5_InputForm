@@ -13,7 +13,7 @@ body {
     display: flex;
     flex-flow: column wrap;
     align-content: center;
-    background: tomato;
+    background: greenyellow;
     font-weight: bold;
     margin-bottom: 20px;
 }
